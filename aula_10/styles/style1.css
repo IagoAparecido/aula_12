@@ -1,0 +1,16 @@
+*{margin: 0
+}
+header{
+    background-color: blanchedalmond;
+
+}
+
+main{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{
+    margin-left: 10px
+}
